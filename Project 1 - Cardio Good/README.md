@@ -6,6 +6,9 @@ To execute preliminary data analysis by exploring the dataset and coming up with
 Skills & Tools Covered
 
 Pandas
+
 NumPy
+
 Visualisation techniques
+
 EDA
