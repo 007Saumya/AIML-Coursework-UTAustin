@@ -6,6 +6,10 @@ Using the Cars4U dataset, need to come up with a pricing model that can effectiv
 Skills & Tools Covered
 
 EDA
+
 Linear regression
+
 Linear regression assumptions
+
 business insights and suggestions
+
